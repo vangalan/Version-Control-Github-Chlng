@@ -1,0 +1,13 @@
+1. Explain what the terminal is in your own words.
+
+-Terminal is a user interface in which allows programers to make commands and changes to a graphical user interface.  
+
+2. What is the major difference between Git and Github?
+
+-The major difference between Git and Github is that Git is local source code on your computer and Github is an online source for developers to push their projects from Git to Github.
+
+
+3. Why do we use Github?
+ 
+- Github is a repository which is beneficial to Coding developers to use for projects that they can share to one another for reviews. 
+
